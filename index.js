@@ -45,6 +45,17 @@ class InCallManager {
         _InCallManager.turnScreenOn();
     }
 
+    getAudiodevices(){
+      if (Platform.OS === 'android') {
+_InCallManager.GetAudioDevices();
+    }else{
+      console.log("ios doesn't support getAudiodevices() yet.");
+            return null;
+    }
+
+
+    }
+
     async getIsWiredHeadsetPluggedIn() {
         if (Platform.OS === 'ios') {
             return await _InCallManager.getIsWiredHeadsetPluggedIn();

@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 Henry Lin @zxcpoiu
+ * Copyright (c) 2017 Henry Lin @ak
  * 
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above

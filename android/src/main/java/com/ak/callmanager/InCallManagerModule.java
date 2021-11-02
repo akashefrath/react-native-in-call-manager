@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 Henry Lin @zxcpoiu
+ * Copyright (c) 2017 Henry Lin @ak
  * 
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
@@ -73,7 +73,7 @@ public class InCallManagerModule extends ReactContextBaseJavaModule implements L
     private static final String TAG = REACT_NATIVE_MODULE_NAME;
     private static SparseArray<Promise> mRequestPermissionCodePromises;
     private static SparseArray<String> mRequestPermissionCodeTargetPermission;
-    private String mPackageName = "com.zxcpoiu.incallmanager";
+    private String mPackageName = "com.ak.callmanager";
 
     // --- Screen Manager
     private PowerManager mPowerManager;
@@ -758,7 +758,7 @@ public class InCallManagerModule extends ReactContextBaseJavaModule implements L
         }
     }
 
-    // --- TODO (zxcpoiu): These two api name is really confusing. should be
+    // --- TODO (ak): These two api name is really confusing. should be
     // changed.
     /**
      * flag: Int 0: use default action 1: force speaker on -1: force speaker off
@@ -784,7 +784,7 @@ public class InCallManagerModule extends ReactContextBaseJavaModule implements L
         }
     }
 
-    // --- TODO (zxcpoiu): Implement api to let user choose audio devices
+    // --- TODO (ak): Implement api to let user choose audio devices
 
     @ReactMethod
     public void setMicrophoneMute(final boolean enable) {

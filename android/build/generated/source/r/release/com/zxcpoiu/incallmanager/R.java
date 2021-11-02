@@ -2335,33 +2335,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.zxcpoiu.incallmanager:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.zxcpoiu.incallmanager:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.zxcpoiu.incallmanager:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.zxcpoiu.incallmanager:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.zxcpoiu.incallmanager:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.zxcpoiu.incallmanager:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.zxcpoiu.incallmanager:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.zxcpoiu.incallmanager:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.zxcpoiu.incallmanager:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.zxcpoiu.incallmanager:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.zxcpoiu.incallmanager:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.zxcpoiu.incallmanager:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.zxcpoiu.incallmanager:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.zxcpoiu.incallmanager:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.zxcpoiu.incallmanager:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.zxcpoiu.incallmanager:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.zxcpoiu.incallmanager:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.zxcpoiu.incallmanager:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.zxcpoiu.incallmanager:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.zxcpoiu.incallmanager:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.zxcpoiu.incallmanager:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.zxcpoiu.incallmanager:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.zxcpoiu.incallmanager:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.zxcpoiu.incallmanager:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.zxcpoiu.incallmanager:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.zxcpoiu.incallmanager:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.zxcpoiu.incallmanager:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.ak.callmanager:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.ak.callmanager:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.ak.callmanager:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.ak.callmanager:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.ak.callmanager:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.ak.callmanager:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.ak.callmanager:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.ak.callmanager:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.ak.callmanager:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.ak.callmanager:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.ak.callmanager:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.ak.callmanager:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.ak.callmanager:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.ak.callmanager:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.ak.callmanager:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.ak.callmanager:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.ak.callmanager:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.ak.callmanager:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.ak.callmanager:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.ak.callmanager:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.ak.callmanager:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.ak.callmanager:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.ak.callmanager:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.ak.callmanager:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.ak.callmanager:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.ak.callmanager:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.ak.callmanager:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2407,7 +2407,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:background
+          @attr name com.ak.callmanager:background
         */
         public static int ActionBar_background = 10;
         /**
@@ -2419,7 +2419,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:backgroundSplit
+          @attr name com.ak.callmanager:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 12;
         /**
@@ -2431,7 +2431,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:backgroundStacked
+          @attr name com.ak.callmanager:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 11;
         /**
@@ -2447,7 +2447,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetEnd
+          @attr name com.ak.callmanager:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 21;
         /**
@@ -2463,7 +2463,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetLeft
+          @attr name com.ak.callmanager:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 22;
         /**
@@ -2479,7 +2479,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetRight
+          @attr name com.ak.callmanager:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 23;
         /**
@@ -2495,7 +2495,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetStart
+          @attr name com.ak.callmanager:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 20;
         /**
@@ -2505,7 +2505,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:customNavigationLayout
+          @attr name com.ak.callmanager:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 13;
         /**
@@ -2527,7 +2527,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:displayOptions
+          @attr name com.ak.callmanager:displayOptions
         */
         public static int ActionBar_displayOptions = 3;
         /**
@@ -2537,7 +2537,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:divider
+          @attr name com.ak.callmanager:divider
         */
         public static int ActionBar_divider = 9;
         /**
@@ -2553,7 +2553,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:elevation
+          @attr name com.ak.callmanager:elevation
         */
         public static int ActionBar_elevation = 24;
         /**
@@ -2569,7 +2569,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:height
+          @attr name com.ak.callmanager:height
         */
         public static int ActionBar_height = 0;
         /**
@@ -2583,7 +2583,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:hideOnContentScroll
+          @attr name com.ak.callmanager:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 19;
         /**
@@ -2593,7 +2593,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:homeAsUpIndicator
+          @attr name com.ak.callmanager:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 26;
         /**
@@ -2603,7 +2603,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:homeLayout
+          @attr name com.ak.callmanager:homeLayout
         */
         public static int ActionBar_homeLayout = 14;
         /**
@@ -2613,7 +2613,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:icon
+          @attr name com.ak.callmanager:icon
         */
         public static int ActionBar_icon = 7;
         /**
@@ -2623,7 +2623,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:indeterminateProgressStyle
+          @attr name com.ak.callmanager:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 16;
         /**
@@ -2639,7 +2639,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:itemPadding
+          @attr name com.ak.callmanager:itemPadding
         */
         public static int ActionBar_itemPadding = 18;
         /**
@@ -2649,7 +2649,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:logo
+          @attr name com.ak.callmanager:logo
         */
         public static int ActionBar_logo = 8;
         /**
@@ -2667,7 +2667,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:navigationMode
+          @attr name com.ak.callmanager:navigationMode
         */
         public static int ActionBar_navigationMode = 2;
         /**
@@ -2677,7 +2677,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:popupTheme
+          @attr name com.ak.callmanager:popupTheme
         */
         public static int ActionBar_popupTheme = 25;
         /**
@@ -2693,7 +2693,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:progressBarPadding
+          @attr name com.ak.callmanager:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 17;
         /**
@@ -2703,7 +2703,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:progressBarStyle
+          @attr name com.ak.callmanager:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 15;
         /**
@@ -2717,7 +2717,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:subtitle
+          @attr name com.ak.callmanager:subtitle
         */
         public static int ActionBar_subtitle = 4;
         /**
@@ -2727,7 +2727,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:subtitleTextStyle
+          @attr name com.ak.callmanager:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 6;
         /**
@@ -2741,7 +2741,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:title
+          @attr name com.ak.callmanager:title
         */
         public static int ActionBar_title = 1;
         /**
@@ -2751,7 +2751,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:titleTextStyle
+          @attr name com.ak.callmanager:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2803,12 +2803,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.zxcpoiu.incallmanager:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.zxcpoiu.incallmanager:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.zxcpoiu.incallmanager:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.zxcpoiu.incallmanager:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.zxcpoiu.incallmanager:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.zxcpoiu.incallmanager:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.ak.callmanager:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.ak.callmanager:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.ak.callmanager:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.ak.callmanager:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.ak.callmanager:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.ak.callmanager:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2828,7 +2828,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:background
+          @attr name com.ak.callmanager:background
         */
         public static int ActionMode_background = 3;
         /**
@@ -2840,7 +2840,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:backgroundSplit
+          @attr name com.ak.callmanager:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 4;
         /**
@@ -2850,7 +2850,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:closeItemLayout
+          @attr name com.ak.callmanager:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 5;
         /**
@@ -2866,7 +2866,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:height
+          @attr name com.ak.callmanager:height
         */
         public static int ActionMode_height = 0;
         /**
@@ -2876,7 +2876,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:subtitleTextStyle
+          @attr name com.ak.callmanager:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 2;
         /**
@@ -2886,7 +2886,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:titleTextStyle
+          @attr name com.ak.callmanager:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2895,8 +2895,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.zxcpoiu.incallmanager:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.zxcpoiu.incallmanager:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.ak.callmanager:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.ak.callmanager:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2911,7 +2911,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:expandActivityOverflowButtonDrawable
+          @attr name com.ak.callmanager:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
@@ -2925,7 +2925,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:initialActivityCount
+          @attr name com.ak.callmanager:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2935,11 +2935,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.zxcpoiu.incallmanager:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.zxcpoiu.incallmanager:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.zxcpoiu.incallmanager:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.zxcpoiu.incallmanager:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.zxcpoiu.incallmanager:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.ak.callmanager:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.ak.callmanager:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.ak.callmanager:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.ak.callmanager:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.ak.callmanager:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2965,7 +2965,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonPanelSideLayout
+          @attr name com.ak.callmanager:buttonPanelSideLayout
         */
         public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
@@ -2975,7 +2975,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:listItemLayout
+          @attr name com.ak.callmanager:listItemLayout
         */
         public static int AlertDialog_listItemLayout = 5;
         /**
@@ -2985,7 +2985,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:listLayout
+          @attr name com.ak.callmanager:listLayout
         */
         public static int AlertDialog_listLayout = 2;
         /**
@@ -2995,7 +2995,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:multiChoiceItemLayout
+          @attr name com.ak.callmanager:multiChoiceItemLayout
         */
         public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
@@ -3005,7 +3005,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:singleChoiceItemLayout
+          @attr name com.ak.callmanager:singleChoiceItemLayout
         */
         public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3015,7 +3015,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.zxcpoiu.incallmanager:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.ak.callmanager:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3037,7 +3037,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.zxcpoiu.incallmanager:textAllCaps
+          @attr name com.ak.callmanager:textAllCaps
         */
         public static int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CompoundButton.
@@ -3047,8 +3047,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.zxcpoiu.incallmanager:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.zxcpoiu.incallmanager:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.ak.callmanager:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.ak.callmanager:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3075,7 +3075,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:buttonTint
+          @attr name com.ak.callmanager:buttonTint
         */
         public static int CompoundButton_buttonTint = 1;
         /**
@@ -3095,7 +3095,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:buttonTintMode
+          @attr name com.ak.callmanager:buttonTintMode
         */
         public static int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3104,14 +3104,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.zxcpoiu.incallmanager:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.zxcpoiu.incallmanager:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.zxcpoiu.incallmanager:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.zxcpoiu.incallmanager:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.zxcpoiu.incallmanager:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.zxcpoiu.incallmanager:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.zxcpoiu.incallmanager:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.zxcpoiu.incallmanager:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.ak.callmanager:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.ak.callmanager:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.ak.callmanager:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.ak.callmanager:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.ak.callmanager:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.ak.callmanager:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.ak.callmanager:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.ak.callmanager:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3139,7 +3139,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:arrowHeadLength
+          @attr name com.ak.callmanager:arrowHeadLength
         */
         public static int DrawerArrowToggle_arrowHeadLength = 4;
         /**
@@ -3155,7 +3155,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:arrowShaftLength
+          @attr name com.ak.callmanager:arrowShaftLength
         */
         public static int DrawerArrowToggle_arrowShaftLength = 5;
         /**
@@ -3171,7 +3171,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:barLength
+          @attr name com.ak.callmanager:barLength
         */
         public static int DrawerArrowToggle_barLength = 6;
         /**
@@ -3186,7 +3186,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:color
+          @attr name com.ak.callmanager:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
@@ -3202,7 +3202,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:drawableSize
+          @attr name com.ak.callmanager:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
@@ -3218,7 +3218,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:gapBetweenBars
+          @attr name com.ak.callmanager:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
@@ -3232,7 +3232,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:spinBars
+          @attr name com.ak.callmanager:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
@@ -3248,7 +3248,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:thickness
+          @attr name com.ak.callmanager:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a GenericDraweeView.
@@ -3257,30 +3257,30 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType com.zxcpoiu.incallmanager:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_backgroundImage com.zxcpoiu.incallmanager:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_fadeDuration com.zxcpoiu.incallmanager:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImage com.zxcpoiu.incallmanager:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType com.zxcpoiu.incallmanager:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_overlayImage com.zxcpoiu.incallmanager:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImage com.zxcpoiu.incallmanager:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType com.zxcpoiu.incallmanager:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage com.zxcpoiu.incallmanager:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval com.zxcpoiu.incallmanager:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImage com.zxcpoiu.incallmanager:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType com.zxcpoiu.incallmanager:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImage com.zxcpoiu.incallmanager:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType com.zxcpoiu.incallmanager:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundAsCircle com.zxcpoiu.incallmanager:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft com.zxcpoiu.incallmanager:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomRight com.zxcpoiu.incallmanager:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopLeft com.zxcpoiu.incallmanager:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopRight com.zxcpoiu.incallmanager:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor com.zxcpoiu.incallmanager:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius com.zxcpoiu.incallmanager:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor com.zxcpoiu.incallmanager:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth com.zxcpoiu.incallmanager:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio com.zxcpoiu.incallmanager:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType com.ak.callmanager:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_backgroundImage com.ak.callmanager:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_fadeDuration com.ak.callmanager:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImage com.ak.callmanager:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType com.ak.callmanager:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_overlayImage com.ak.callmanager:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImage com.ak.callmanager:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType com.ak.callmanager:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage com.ak.callmanager:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval com.ak.callmanager:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImage com.ak.callmanager:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType com.ak.callmanager:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImage com.ak.callmanager:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType com.ak.callmanager:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundAsCircle com.ak.callmanager:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft com.ak.callmanager:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomRight com.ak.callmanager:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopLeft com.ak.callmanager:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopRight com.ak.callmanager:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor com.ak.callmanager:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius com.ak.callmanager:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor com.ak.callmanager:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth com.ak.callmanager:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio com.ak.callmanager:viewAspectRatio}</code></td><td></td></tr>
            </table>
            @see #GenericDraweeView_actualImageScaleType
            @see #GenericDraweeView_backgroundImage
@@ -3336,7 +3336,7 @@ containing a value of this type.
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:actualImageScaleType
+          @attr name com.ak.callmanager:actualImageScaleType
         */
         public static int GenericDraweeView_actualImageScaleType = 11;
         /**
@@ -3346,7 +3346,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:backgroundImage
+          @attr name com.ak.callmanager:backgroundImage
         */
         public static int GenericDraweeView_backgroundImage = 12;
         /**
@@ -3360,7 +3360,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:fadeDuration
+          @attr name com.ak.callmanager:fadeDuration
         */
         public static int GenericDraweeView_fadeDuration = 0;
         /**
@@ -3370,7 +3370,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:failureImage
+          @attr name com.ak.callmanager:failureImage
         */
         public static int GenericDraweeView_failureImage = 6;
         /**
@@ -3394,7 +3394,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:failureImageScaleType
+          @attr name com.ak.callmanager:failureImageScaleType
         */
         public static int GenericDraweeView_failureImageScaleType = 7;
         /**
@@ -3404,7 +3404,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:overlayImage
+          @attr name com.ak.callmanager:overlayImage
         */
         public static int GenericDraweeView_overlayImage = 13;
         /**
@@ -3414,7 +3414,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:placeholderImage
+          @attr name com.ak.callmanager:placeholderImage
         */
         public static int GenericDraweeView_placeholderImage = 2;
         /**
@@ -3438,7 +3438,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:placeholderImageScaleType
+          @attr name com.ak.callmanager:placeholderImageScaleType
         */
         public static int GenericDraweeView_placeholderImageScaleType = 3;
         /**
@@ -3448,7 +3448,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:pressedStateOverlayImage
+          @attr name com.ak.callmanager:pressedStateOverlayImage
         */
         public static int GenericDraweeView_pressedStateOverlayImage = 14;
         /**
@@ -3462,7 +3462,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:progressBarAutoRotateInterval
+          @attr name com.ak.callmanager:progressBarAutoRotateInterval
         */
         public static int GenericDraweeView_progressBarAutoRotateInterval = 10;
         /**
@@ -3472,7 +3472,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:progressBarImage
+          @attr name com.ak.callmanager:progressBarImage
         */
         public static int GenericDraweeView_progressBarImage = 8;
         /**
@@ -3496,7 +3496,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:progressBarImageScaleType
+          @attr name com.ak.callmanager:progressBarImageScaleType
         */
         public static int GenericDraweeView_progressBarImageScaleType = 9;
         /**
@@ -3506,7 +3506,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:retryImage
+          @attr name com.ak.callmanager:retryImage
         */
         public static int GenericDraweeView_retryImage = 4;
         /**
@@ -3530,7 +3530,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:retryImageScaleType
+          @attr name com.ak.callmanager:retryImageScaleType
         */
         public static int GenericDraweeView_retryImageScaleType = 5;
         /**
@@ -3544,7 +3544,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundAsCircle
+          @attr name com.ak.callmanager:roundAsCircle
         */
         public static int GenericDraweeView_roundAsCircle = 15;
         /**
@@ -3558,7 +3558,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundBottomLeft
+          @attr name com.ak.callmanager:roundBottomLeft
         */
         public static int GenericDraweeView_roundBottomLeft = 20;
         /**
@@ -3572,7 +3572,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundBottomRight
+          @attr name com.ak.callmanager:roundBottomRight
         */
         public static int GenericDraweeView_roundBottomRight = 19;
         /**
@@ -3586,7 +3586,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundTopLeft
+          @attr name com.ak.callmanager:roundTopLeft
         */
         public static int GenericDraweeView_roundTopLeft = 17;
         /**
@@ -3600,7 +3600,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundTopRight
+          @attr name com.ak.callmanager:roundTopRight
         */
         public static int GenericDraweeView_roundTopRight = 18;
         /**
@@ -3615,7 +3615,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundWithOverlayColor
+          @attr name com.ak.callmanager:roundWithOverlayColor
         */
         public static int GenericDraweeView_roundWithOverlayColor = 21;
         /**
@@ -3631,7 +3631,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundedCornerRadius
+          @attr name com.ak.callmanager:roundedCornerRadius
         */
         public static int GenericDraweeView_roundedCornerRadius = 16;
         /**
@@ -3646,7 +3646,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundingBorderColor
+          @attr name com.ak.callmanager:roundingBorderColor
         */
         public static int GenericDraweeView_roundingBorderColor = 23;
         /**
@@ -3662,7 +3662,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:roundingBorderWidth
+          @attr name com.ak.callmanager:roundingBorderWidth
         */
         public static int GenericDraweeView_roundingBorderWidth = 22;
         /**
@@ -3676,7 +3676,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:viewAspectRatio
+          @attr name com.ak.callmanager:viewAspectRatio
         */
         public static int GenericDraweeView_viewAspectRatio = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3690,10 +3690,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.zxcpoiu.incallmanager:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.zxcpoiu.incallmanager:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.zxcpoiu.incallmanager:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.zxcpoiu.incallmanager:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.ak.callmanager:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.ak.callmanager:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.ak.callmanager:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.ak.callmanager:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3747,7 +3747,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:divider
+          @attr name com.ak.callmanager:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
@@ -3763,7 +3763,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:dividerPadding
+          @attr name com.ak.callmanager:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
@@ -3777,7 +3777,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:measureWithLargestChild
+          @attr name com.ak.callmanager:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
@@ -3796,7 +3796,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:showDividers
+          @attr name com.ak.callmanager:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3935,9 +3935,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.zxcpoiu.incallmanager:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.zxcpoiu.incallmanager:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.zxcpoiu.incallmanager:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.ak.callmanager:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.ak.callmanager:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.ak.callmanager:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3951,7 +3951,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.zxcpoiu.incallmanager:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.ak.callmanager:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3985,7 +3985,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionLayout
+          @attr name com.ak.callmanager:actionLayout
         */
         public static int MenuItem_actionLayout = 14;
         /**
@@ -3999,7 +3999,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:actionProviderClass
+          @attr name com.ak.callmanager:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 16;
         /**
@@ -4013,7 +4013,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:actionViewClass
+          @attr name com.ak.callmanager:actionViewClass
         */
         public static int MenuItem_actionViewClass = 15;
         /**
@@ -4111,7 +4111,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:showAsAction
+          @attr name com.ak.callmanager:showAsAction
         */
         public static int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4127,7 +4127,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.zxcpoiu.incallmanager:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.ak.callmanager:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4195,7 +4195,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:preserveIconSpacing
+          @attr name com.ak.callmanager:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4205,7 +4205,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.zxcpoiu.incallmanager:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.ak.callmanager:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4230,7 +4230,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:overlapAnchor
+          @attr name com.ak.callmanager:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4239,7 +4239,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.zxcpoiu.incallmanager:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.ak.callmanager:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4257,7 +4257,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:state_above_anchor
+          @attr name com.ak.callmanager:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -4267,10 +4267,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.zxcpoiu.incallmanager:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.zxcpoiu.incallmanager:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.zxcpoiu.incallmanager:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.zxcpoiu.incallmanager:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.ak.callmanager:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.ak.callmanager:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.ak.callmanager:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.ak.callmanager:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -4299,7 +4299,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:layoutManager
+          @attr name com.ak.callmanager:layoutManager
         */
         public static int RecyclerView_layoutManager = 1;
         /**
@@ -4313,7 +4313,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:reverseLayout
+          @attr name com.ak.callmanager:reverseLayout
         */
         public static int RecyclerView_reverseLayout = 3;
         /**
@@ -4327,7 +4327,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:spanCount
+          @attr name com.ak.callmanager:spanCount
         */
         public static int RecyclerView_spanCount = 2;
         /**
@@ -4341,7 +4341,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:stackFromEnd
+          @attr name com.ak.callmanager:stackFromEnd
         */
         public static int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a SearchView.
@@ -4354,19 +4354,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.zxcpoiu.incallmanager:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.zxcpoiu.incallmanager:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.zxcpoiu.incallmanager:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.zxcpoiu.incallmanager:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.zxcpoiu.incallmanager:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.zxcpoiu.incallmanager:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.zxcpoiu.incallmanager:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.zxcpoiu.incallmanager:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.zxcpoiu.incallmanager:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.zxcpoiu.incallmanager:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.zxcpoiu.incallmanager:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.zxcpoiu.incallmanager:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.zxcpoiu.incallmanager:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.ak.callmanager:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.ak.callmanager:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.ak.callmanager:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.ak.callmanager:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.ak.callmanager:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.ak.callmanager:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.ak.callmanager:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.ak.callmanager:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.ak.callmanager:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.ak.callmanager:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.ak.callmanager:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.ak.callmanager:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.ak.callmanager:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4424,7 +4424,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:closeIcon
+          @attr name com.ak.callmanager:closeIcon
         */
         public static int SearchView_closeIcon = 8;
         /**
@@ -4434,7 +4434,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:commitIcon
+          @attr name com.ak.callmanager:commitIcon
         */
         public static int SearchView_commitIcon = 13;
         /**
@@ -4448,7 +4448,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:defaultQueryHint
+          @attr name com.ak.callmanager:defaultQueryHint
         */
         public static int SearchView_defaultQueryHint = 7;
         /**
@@ -4458,7 +4458,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:goIcon
+          @attr name com.ak.callmanager:goIcon
         */
         public static int SearchView_goIcon = 9;
         /**
@@ -4472,7 +4472,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:iconifiedByDefault
+          @attr name com.ak.callmanager:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
@@ -4482,7 +4482,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:layout
+          @attr name com.ak.callmanager:layout
         */
         public static int SearchView_layout = 4;
         /**
@@ -4492,7 +4492,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:queryBackground
+          @attr name com.ak.callmanager:queryBackground
         */
         public static int SearchView_queryBackground = 15;
         /**
@@ -4506,7 +4506,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:queryHint
+          @attr name com.ak.callmanager:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
@@ -4516,7 +4516,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:searchHintIcon
+          @attr name com.ak.callmanager:searchHintIcon
         */
         public static int SearchView_searchHintIcon = 11;
         /**
@@ -4526,7 +4526,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:searchIcon
+          @attr name com.ak.callmanager:searchIcon
         */
         public static int SearchView_searchIcon = 10;
         /**
@@ -4536,7 +4536,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:submitBackground
+          @attr name com.ak.callmanager:submitBackground
         */
         public static int SearchView_submitBackground = 16;
         /**
@@ -4546,7 +4546,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:suggestionRowLayout
+          @attr name com.ak.callmanager:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 14;
         /**
@@ -4556,7 +4556,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:voiceIcon
+          @attr name com.ak.callmanager:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -4568,7 +4568,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.zxcpoiu.incallmanager:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.ak.callmanager:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -4603,7 +4603,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:popupTheme
+          @attr name com.ak.callmanager:popupTheme
         */
         public static int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -4615,13 +4615,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.zxcpoiu.incallmanager:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.zxcpoiu.incallmanager:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.zxcpoiu.incallmanager:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.zxcpoiu.incallmanager:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.zxcpoiu.incallmanager:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.zxcpoiu.incallmanager:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.zxcpoiu.incallmanager:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.ak.callmanager:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.ak.callmanager:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.ak.callmanager:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.ak.callmanager:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.ak.callmanager:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.ak.callmanager:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.ak.callmanager:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4668,7 +4668,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:showText
+          @attr name com.ak.callmanager:showText
         */
         public static int SwitchCompat_showText = 9;
         /**
@@ -4682,7 +4682,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:splitTrack
+          @attr name com.ak.callmanager:splitTrack
         */
         public static int SwitchCompat_splitTrack = 8;
         /**
@@ -4698,7 +4698,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:switchMinWidth
+          @attr name com.ak.callmanager:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 6;
         /**
@@ -4714,7 +4714,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:switchPadding
+          @attr name com.ak.callmanager:switchPadding
         */
         public static int SwitchCompat_switchPadding = 7;
         /**
@@ -4724,7 +4724,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:switchTextAppearance
+          @attr name com.ak.callmanager:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 5;
         /**
@@ -4740,7 +4740,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:thumbTextPadding
+          @attr name com.ak.callmanager:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 4;
         /**
@@ -4750,7 +4750,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:track
+          @attr name com.ak.callmanager:track
         */
         public static int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4763,7 +4763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.zxcpoiu.incallmanager:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.ak.callmanager:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -4807,7 +4807,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.zxcpoiu.incallmanager:textAllCaps
+          @attr name com.ak.callmanager:textAllCaps
         */
         public static int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
@@ -4816,114 +4816,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.zxcpoiu.incallmanager:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.zxcpoiu.incallmanager:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.zxcpoiu.incallmanager:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.zxcpoiu.incallmanager:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.zxcpoiu.incallmanager:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.zxcpoiu.incallmanager:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.zxcpoiu.incallmanager:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.zxcpoiu.incallmanager:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.zxcpoiu.incallmanager:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.zxcpoiu.incallmanager:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.zxcpoiu.incallmanager:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.zxcpoiu.incallmanager:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.zxcpoiu.incallmanager:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.zxcpoiu.incallmanager:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.zxcpoiu.incallmanager:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.zxcpoiu.incallmanager:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.zxcpoiu.incallmanager:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.zxcpoiu.incallmanager:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.zxcpoiu.incallmanager:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.zxcpoiu.incallmanager:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.zxcpoiu.incallmanager:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.zxcpoiu.incallmanager:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.zxcpoiu.incallmanager:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.zxcpoiu.incallmanager:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.zxcpoiu.incallmanager:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.zxcpoiu.incallmanager:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.zxcpoiu.incallmanager:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.zxcpoiu.incallmanager:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.zxcpoiu.incallmanager:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.zxcpoiu.incallmanager:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.zxcpoiu.incallmanager:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.zxcpoiu.incallmanager:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.zxcpoiu.incallmanager:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.zxcpoiu.incallmanager:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.zxcpoiu.incallmanager:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.ak.callmanager:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.ak.callmanager:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.ak.callmanager:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.ak.callmanager:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.ak.callmanager:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.ak.callmanager:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.ak.callmanager:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.ak.callmanager:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.ak.callmanager:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.ak.callmanager:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.ak.callmanager:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.ak.callmanager:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.ak.callmanager:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.ak.callmanager:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.ak.callmanager:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.ak.callmanager:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.ak.callmanager:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.ak.callmanager:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.ak.callmanager:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.ak.callmanager:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.ak.callmanager:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.ak.callmanager:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.ak.callmanager:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.ak.callmanager:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.ak.callmanager:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.ak.callmanager:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.ak.callmanager:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.ak.callmanager:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.ak.callmanager:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.ak.callmanager:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.ak.callmanager:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.ak.callmanager:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.ak.callmanager:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.ak.callmanager:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.ak.callmanager:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.zxcpoiu.incallmanager:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.zxcpoiu.incallmanager:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.zxcpoiu.incallmanager:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.zxcpoiu.incallmanager:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.zxcpoiu.incallmanager:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.zxcpoiu.incallmanager:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.zxcpoiu.incallmanager:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.zxcpoiu.incallmanager:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.zxcpoiu.incallmanager:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.zxcpoiu.incallmanager:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.zxcpoiu.incallmanager:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.zxcpoiu.incallmanager:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.zxcpoiu.incallmanager:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.zxcpoiu.incallmanager:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.zxcpoiu.incallmanager:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.zxcpoiu.incallmanager:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.zxcpoiu.incallmanager:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.zxcpoiu.incallmanager:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.zxcpoiu.incallmanager:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.zxcpoiu.incallmanager:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.zxcpoiu.incallmanager:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.zxcpoiu.incallmanager:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.zxcpoiu.incallmanager:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.zxcpoiu.incallmanager:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.zxcpoiu.incallmanager:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.zxcpoiu.incallmanager:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.zxcpoiu.incallmanager:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.zxcpoiu.incallmanager:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.zxcpoiu.incallmanager:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.zxcpoiu.incallmanager:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.zxcpoiu.incallmanager:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.zxcpoiu.incallmanager:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.zxcpoiu.incallmanager:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.zxcpoiu.incallmanager:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.zxcpoiu.incallmanager:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.zxcpoiu.incallmanager:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.zxcpoiu.incallmanager:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.zxcpoiu.incallmanager:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.zxcpoiu.incallmanager:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.zxcpoiu.incallmanager:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.zxcpoiu.incallmanager:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.zxcpoiu.incallmanager:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.zxcpoiu.incallmanager:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.zxcpoiu.incallmanager:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.zxcpoiu.incallmanager:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.zxcpoiu.incallmanager:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.zxcpoiu.incallmanager:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.zxcpoiu.incallmanager:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.zxcpoiu.incallmanager:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.zxcpoiu.incallmanager:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.zxcpoiu.incallmanager:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.zxcpoiu.incallmanager:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.zxcpoiu.incallmanager:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.zxcpoiu.incallmanager:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.zxcpoiu.incallmanager:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.zxcpoiu.incallmanager:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.zxcpoiu.incallmanager:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.zxcpoiu.incallmanager:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.zxcpoiu.incallmanager:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.zxcpoiu.incallmanager:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.zxcpoiu.incallmanager:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.zxcpoiu.incallmanager:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.zxcpoiu.incallmanager:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.zxcpoiu.incallmanager:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.zxcpoiu.incallmanager:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.zxcpoiu.incallmanager:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.zxcpoiu.incallmanager:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.zxcpoiu.incallmanager:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.zxcpoiu.incallmanager:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.zxcpoiu.incallmanager:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.zxcpoiu.incallmanager:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.ak.callmanager:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.ak.callmanager:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.ak.callmanager:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.ak.callmanager:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.ak.callmanager:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.ak.callmanager:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.ak.callmanager:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.ak.callmanager:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.ak.callmanager:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.ak.callmanager:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.ak.callmanager:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.ak.callmanager:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.ak.callmanager:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.ak.callmanager:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.ak.callmanager:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.ak.callmanager:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.ak.callmanager:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.ak.callmanager:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.ak.callmanager:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground com.ak.callmanager:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.ak.callmanager:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.ak.callmanager:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.ak.callmanager:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.ak.callmanager:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.ak.callmanager:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.ak.callmanager:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.ak.callmanager:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.ak.callmanager:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.ak.callmanager:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.ak.callmanager:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.ak.callmanager:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.ak.callmanager:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.ak.callmanager:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.ak.callmanager:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.ak.callmanager:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.ak.callmanager:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.ak.callmanager:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.ak.callmanager:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.ak.callmanager:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.ak.callmanager:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.ak.callmanager:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.ak.callmanager:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.ak.callmanager:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.ak.callmanager:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.ak.callmanager:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.ak.callmanager:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.ak.callmanager:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.ak.callmanager:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.ak.callmanager:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.ak.callmanager:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.ak.callmanager:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.ak.callmanager:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.ak.callmanager:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.ak.callmanager:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.ak.callmanager:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.ak.callmanager:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.ak.callmanager:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.ak.callmanager:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.ak.callmanager:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.ak.callmanager:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.ak.callmanager:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.ak.callmanager:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.ak.callmanager:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.ak.callmanager:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.ak.callmanager:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.ak.callmanager:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.ak.callmanager:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.ak.callmanager:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.ak.callmanager:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.ak.callmanager:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.ak.callmanager:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5070,7 +5070,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarDivider
+          @attr name com.ak.callmanager:actionBarDivider
         */
         public static int Theme_actionBarDivider = 23;
         /**
@@ -5080,7 +5080,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarItemBackground
+          @attr name com.ak.callmanager:actionBarItemBackground
         */
         public static int Theme_actionBarItemBackground = 24;
         /**
@@ -5090,7 +5090,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarPopupTheme
+          @attr name com.ak.callmanager:actionBarPopupTheme
         */
         public static int Theme_actionBarPopupTheme = 17;
         /**
@@ -5114,7 +5114,7 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:actionBarSize
+          @attr name com.ak.callmanager:actionBarSize
         */
         public static int Theme_actionBarSize = 22;
         /**
@@ -5124,7 +5124,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarSplitStyle
+          @attr name com.ak.callmanager:actionBarSplitStyle
         */
         public static int Theme_actionBarSplitStyle = 19;
         /**
@@ -5134,7 +5134,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarStyle
+          @attr name com.ak.callmanager:actionBarStyle
         */
         public static int Theme_actionBarStyle = 18;
         /**
@@ -5144,7 +5144,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarTabBarStyle
+          @attr name com.ak.callmanager:actionBarTabBarStyle
         */
         public static int Theme_actionBarTabBarStyle = 13;
         /**
@@ -5154,7 +5154,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarTabStyle
+          @attr name com.ak.callmanager:actionBarTabStyle
         */
         public static int Theme_actionBarTabStyle = 12;
         /**
@@ -5164,7 +5164,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarTabTextStyle
+          @attr name com.ak.callmanager:actionBarTabTextStyle
         */
         public static int Theme_actionBarTabTextStyle = 14;
         /**
@@ -5174,7 +5174,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarTheme
+          @attr name com.ak.callmanager:actionBarTheme
         */
         public static int Theme_actionBarTheme = 20;
         /**
@@ -5184,7 +5184,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionBarWidgetTheme
+          @attr name com.ak.callmanager:actionBarWidgetTheme
         */
         public static int Theme_actionBarWidgetTheme = 21;
         /**
@@ -5194,7 +5194,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionButtonStyle
+          @attr name com.ak.callmanager:actionButtonStyle
         */
         public static int Theme_actionButtonStyle = 49;
         /**
@@ -5204,7 +5204,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionDropDownStyle
+          @attr name com.ak.callmanager:actionDropDownStyle
         */
         public static int Theme_actionDropDownStyle = 45;
         /**
@@ -5214,7 +5214,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionMenuTextAppearance
+          @attr name com.ak.callmanager:actionMenuTextAppearance
         */
         public static int Theme_actionMenuTextAppearance = 25;
         /**
@@ -5226,7 +5226,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionMenuTextColor
+          @attr name com.ak.callmanager:actionMenuTextColor
         */
         public static int Theme_actionMenuTextColor = 26;
         /**
@@ -5236,7 +5236,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeBackground
+          @attr name com.ak.callmanager:actionModeBackground
         */
         public static int Theme_actionModeBackground = 29;
         /**
@@ -5246,7 +5246,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeCloseButtonStyle
+          @attr name com.ak.callmanager:actionModeCloseButtonStyle
         */
         public static int Theme_actionModeCloseButtonStyle = 28;
         /**
@@ -5256,7 +5256,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeCloseDrawable
+          @attr name com.ak.callmanager:actionModeCloseDrawable
         */
         public static int Theme_actionModeCloseDrawable = 31;
         /**
@@ -5266,7 +5266,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeCopyDrawable
+          @attr name com.ak.callmanager:actionModeCopyDrawable
         */
         public static int Theme_actionModeCopyDrawable = 33;
         /**
@@ -5276,7 +5276,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeCutDrawable
+          @attr name com.ak.callmanager:actionModeCutDrawable
         */
         public static int Theme_actionModeCutDrawable = 32;
         /**
@@ -5286,7 +5286,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeFindDrawable
+          @attr name com.ak.callmanager:actionModeFindDrawable
         */
         public static int Theme_actionModeFindDrawable = 37;
         /**
@@ -5296,7 +5296,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModePasteDrawable
+          @attr name com.ak.callmanager:actionModePasteDrawable
         */
         public static int Theme_actionModePasteDrawable = 34;
         /**
@@ -5306,7 +5306,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModePopupWindowStyle
+          @attr name com.ak.callmanager:actionModePopupWindowStyle
         */
         public static int Theme_actionModePopupWindowStyle = 39;
         /**
@@ -5316,7 +5316,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeSelectAllDrawable
+          @attr name com.ak.callmanager:actionModeSelectAllDrawable
         */
         public static int Theme_actionModeSelectAllDrawable = 35;
         /**
@@ -5326,7 +5326,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeShareDrawable
+          @attr name com.ak.callmanager:actionModeShareDrawable
         */
         public static int Theme_actionModeShareDrawable = 36;
         /**
@@ -5336,7 +5336,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeSplitBackground
+          @attr name com.ak.callmanager:actionModeSplitBackground
         */
         public static int Theme_actionModeSplitBackground = 30;
         /**
@@ -5346,7 +5346,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeStyle
+          @attr name com.ak.callmanager:actionModeStyle
         */
         public static int Theme_actionModeStyle = 27;
         /**
@@ -5356,7 +5356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionModeWebSearchDrawable
+          @attr name com.ak.callmanager:actionModeWebSearchDrawable
         */
         public static int Theme_actionModeWebSearchDrawable = 38;
         /**
@@ -5366,7 +5366,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionOverflowButtonStyle
+          @attr name com.ak.callmanager:actionOverflowButtonStyle
         */
         public static int Theme_actionOverflowButtonStyle = 15;
         /**
@@ -5376,7 +5376,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:actionOverflowMenuStyle
+          @attr name com.ak.callmanager:actionOverflowMenuStyle
         */
         public static int Theme_actionOverflowMenuStyle = 16;
         /**
@@ -5386,7 +5386,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:activityChooserViewStyle
+          @attr name com.ak.callmanager:activityChooserViewStyle
         */
         public static int Theme_activityChooserViewStyle = 57;
         /**
@@ -5396,7 +5396,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:alertDialogButtonGroupStyle
+          @attr name com.ak.callmanager:alertDialogButtonGroupStyle
         */
         public static int Theme_alertDialogButtonGroupStyle = 91;
         /**
@@ -5410,7 +5410,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:alertDialogCenterButtons
+          @attr name com.ak.callmanager:alertDialogCenterButtons
         */
         public static int Theme_alertDialogCenterButtons = 92;
         /**
@@ -5420,7 +5420,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:alertDialogStyle
+          @attr name com.ak.callmanager:alertDialogStyle
         */
         public static int Theme_alertDialogStyle = 90;
         /**
@@ -5430,7 +5430,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:alertDialogTheme
+          @attr name com.ak.callmanager:alertDialogTheme
         */
         public static int Theme_alertDialogTheme = 93;
         /**
@@ -5452,7 +5452,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:autoCompleteTextViewStyle
+          @attr name com.ak.callmanager:autoCompleteTextViewStyle
         */
         public static int Theme_autoCompleteTextViewStyle = 98;
         /**
@@ -5462,7 +5462,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:borderlessButtonStyle
+          @attr name com.ak.callmanager:borderlessButtonStyle
         */
         public static int Theme_borderlessButtonStyle = 54;
         /**
@@ -5472,7 +5472,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonBarButtonStyle
+          @attr name com.ak.callmanager:buttonBarButtonStyle
         */
         public static int Theme_buttonBarButtonStyle = 51;
         /**
@@ -5482,7 +5482,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonBarNegativeButtonStyle
+          @attr name com.ak.callmanager:buttonBarNegativeButtonStyle
         */
         public static int Theme_buttonBarNegativeButtonStyle = 96;
         /**
@@ -5492,7 +5492,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonBarNeutralButtonStyle
+          @attr name com.ak.callmanager:buttonBarNeutralButtonStyle
         */
         public static int Theme_buttonBarNeutralButtonStyle = 97;
         /**
@@ -5502,7 +5502,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonBarPositiveButtonStyle
+          @attr name com.ak.callmanager:buttonBarPositiveButtonStyle
         */
         public static int Theme_buttonBarPositiveButtonStyle = 95;
         /**
@@ -5512,7 +5512,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonBarStyle
+          @attr name com.ak.callmanager:buttonBarStyle
         */
         public static int Theme_buttonBarStyle = 50;
         /**
@@ -5522,7 +5522,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonStyle
+          @attr name com.ak.callmanager:buttonStyle
         */
         public static int Theme_buttonStyle = 99;
         /**
@@ -5532,7 +5532,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:buttonStyleSmall
+          @attr name com.ak.callmanager:buttonStyleSmall
         */
         public static int Theme_buttonStyleSmall = 100;
         /**
@@ -5542,7 +5542,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:checkboxStyle
+          @attr name com.ak.callmanager:checkboxStyle
         */
         public static int Theme_checkboxStyle = 101;
         /**
@@ -5552,7 +5552,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:checkedTextViewStyle
+          @attr name com.ak.callmanager:checkedTextViewStyle
         */
         public static int Theme_checkedTextViewStyle = 102;
         /**
@@ -5567,7 +5567,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorAccent
+          @attr name com.ak.callmanager:colorAccent
         */
         public static int Theme_colorAccent = 83;
         /**
@@ -5582,7 +5582,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorButtonNormal
+          @attr name com.ak.callmanager:colorButtonNormal
         */
         public static int Theme_colorButtonNormal = 87;
         /**
@@ -5597,7 +5597,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorControlActivated
+          @attr name com.ak.callmanager:colorControlActivated
         */
         public static int Theme_colorControlActivated = 85;
         /**
@@ -5612,7 +5612,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorControlHighlight
+          @attr name com.ak.callmanager:colorControlHighlight
         */
         public static int Theme_colorControlHighlight = 86;
         /**
@@ -5627,7 +5627,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorControlNormal
+          @attr name com.ak.callmanager:colorControlNormal
         */
         public static int Theme_colorControlNormal = 84;
         /**
@@ -5642,7 +5642,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorPrimary
+          @attr name com.ak.callmanager:colorPrimary
         */
         public static int Theme_colorPrimary = 81;
         /**
@@ -5657,7 +5657,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorPrimaryDark
+          @attr name com.ak.callmanager:colorPrimaryDark
         */
         public static int Theme_colorPrimaryDark = 82;
         /**
@@ -5672,7 +5672,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:colorSwitchThumbNormal
+          @attr name com.ak.callmanager:colorSwitchThumbNormal
         */
         public static int Theme_colorSwitchThumbNormal = 88;
         /**
@@ -5682,7 +5682,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:controlBackground
+          @attr name com.ak.callmanager:controlBackground
         */
         public static int Theme_controlBackground = 89;
         /**
@@ -5698,7 +5698,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:dialogPreferredPadding
+          @attr name com.ak.callmanager:dialogPreferredPadding
         */
         public static int Theme_dialogPreferredPadding = 43;
         /**
@@ -5708,7 +5708,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:dialogTheme
+          @attr name com.ak.callmanager:dialogTheme
         */
         public static int Theme_dialogTheme = 42;
         /**
@@ -5718,7 +5718,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:dividerHorizontal
+          @attr name com.ak.callmanager:dividerHorizontal
         */
         public static int Theme_dividerHorizontal = 56;
         /**
@@ -5728,7 +5728,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:dividerVertical
+          @attr name com.ak.callmanager:dividerVertical
         */
         public static int Theme_dividerVertical = 55;
         /**
@@ -5738,7 +5738,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:dropDownListViewStyle
+          @attr name com.ak.callmanager:dropDownListViewStyle
         */
         public static int Theme_dropDownListViewStyle = 73;
         /**
@@ -5754,7 +5754,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:dropdownListPreferredItemHeight
+          @attr name com.ak.callmanager:dropdownListPreferredItemHeight
         */
         public static int Theme_dropdownListPreferredItemHeight = 46;
         /**
@@ -5764,7 +5764,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:editTextBackground
+          @attr name com.ak.callmanager:editTextBackground
         */
         public static int Theme_editTextBackground = 63;
         /**
@@ -5776,7 +5776,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:editTextColor
+          @attr name com.ak.callmanager:editTextColor
         */
         public static int Theme_editTextColor = 62;
         /**
@@ -5786,7 +5786,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:editTextStyle
+          @attr name com.ak.callmanager:editTextStyle
         */
         public static int Theme_editTextStyle = 103;
         /**
@@ -5796,7 +5796,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:homeAsUpIndicator
+          @attr name com.ak.callmanager:homeAsUpIndicator
         */
         public static int Theme_homeAsUpIndicator = 48;
         /**
@@ -5806,7 +5806,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:listChoiceBackgroundIndicator
+          @attr name com.ak.callmanager:listChoiceBackgroundIndicator
         */
         public static int Theme_listChoiceBackgroundIndicator = 80;
         /**
@@ -5816,7 +5816,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:listDividerAlertDialog
+          @attr name com.ak.callmanager:listDividerAlertDialog
         */
         public static int Theme_listDividerAlertDialog = 44;
         /**
@@ -5826,7 +5826,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:listPopupWindowStyle
+          @attr name com.ak.callmanager:listPopupWindowStyle
         */
         public static int Theme_listPopupWindowStyle = 74;
         /**
@@ -5842,7 +5842,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:listPreferredItemHeight
+          @attr name com.ak.callmanager:listPreferredItemHeight
         */
         public static int Theme_listPreferredItemHeight = 68;
         /**
@@ -5858,7 +5858,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:listPreferredItemHeightLarge
+          @attr name com.ak.callmanager:listPreferredItemHeightLarge
         */
         public static int Theme_listPreferredItemHeightLarge = 70;
         /**
@@ -5874,7 +5874,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:listPreferredItemHeightSmall
+          @attr name com.ak.callmanager:listPreferredItemHeightSmall
         */
         public static int Theme_listPreferredItemHeightSmall = 69;
         /**
@@ -5890,7 +5890,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:listPreferredItemPaddingLeft
+          @attr name com.ak.callmanager:listPreferredItemPaddingLeft
         */
         public static int Theme_listPreferredItemPaddingLeft = 71;
         /**
@@ -5906,7 +5906,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:listPreferredItemPaddingRight
+          @attr name com.ak.callmanager:listPreferredItemPaddingRight
         */
         public static int Theme_listPreferredItemPaddingRight = 72;
         /**
@@ -5916,7 +5916,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:panelBackground
+          @attr name com.ak.callmanager:panelBackground
         */
         public static int Theme_panelBackground = 77;
         /**
@@ -5926,7 +5926,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:panelMenuListTheme
+          @attr name com.ak.callmanager:panelMenuListTheme
         */
         public static int Theme_panelMenuListTheme = 79;
         /**
@@ -5942,7 +5942,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:panelMenuListWidth
+          @attr name com.ak.callmanager:panelMenuListWidth
         */
         public static int Theme_panelMenuListWidth = 78;
         /**
@@ -5952,7 +5952,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:popupMenuStyle
+          @attr name com.ak.callmanager:popupMenuStyle
         */
         public static int Theme_popupMenuStyle = 60;
         /**
@@ -5962,7 +5962,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:popupWindowStyle
+          @attr name com.ak.callmanager:popupWindowStyle
         */
         public static int Theme_popupWindowStyle = 61;
         /**
@@ -5972,7 +5972,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:radioButtonStyle
+          @attr name com.ak.callmanager:radioButtonStyle
         */
         public static int Theme_radioButtonStyle = 104;
         /**
@@ -5982,7 +5982,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:ratingBarStyle
+          @attr name com.ak.callmanager:ratingBarStyle
         */
         public static int Theme_ratingBarStyle = 105;
         /**
@@ -5992,7 +5992,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:searchViewStyle
+          @attr name com.ak.callmanager:searchViewStyle
         */
         public static int Theme_searchViewStyle = 67;
         /**
@@ -6002,7 +6002,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:selectableItemBackground
+          @attr name com.ak.callmanager:selectableItemBackground
         */
         public static int Theme_selectableItemBackground = 52;
         /**
@@ -6012,7 +6012,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:selectableItemBackgroundBorderless
+          @attr name com.ak.callmanager:selectableItemBackgroundBorderless
         */
         public static int Theme_selectableItemBackgroundBorderless = 53;
         /**
@@ -6022,7 +6022,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:spinnerDropDownItemStyle
+          @attr name com.ak.callmanager:spinnerDropDownItemStyle
         */
         public static int Theme_spinnerDropDownItemStyle = 47;
         /**
@@ -6032,7 +6032,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:spinnerStyle
+          @attr name com.ak.callmanager:spinnerStyle
         */
         public static int Theme_spinnerStyle = 106;
         /**
@@ -6042,7 +6042,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:switchStyle
+          @attr name com.ak.callmanager:switchStyle
         */
         public static int Theme_switchStyle = 107;
         /**
@@ -6052,7 +6052,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textAppearanceLargePopupMenu
+          @attr name com.ak.callmanager:textAppearanceLargePopupMenu
         */
         public static int Theme_textAppearanceLargePopupMenu = 40;
         /**
@@ -6062,7 +6062,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textAppearanceListItem
+          @attr name com.ak.callmanager:textAppearanceListItem
         */
         public static int Theme_textAppearanceListItem = 75;
         /**
@@ -6072,7 +6072,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textAppearanceListItemSmall
+          @attr name com.ak.callmanager:textAppearanceListItemSmall
         */
         public static int Theme_textAppearanceListItemSmall = 76;
         /**
@@ -6082,7 +6082,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textAppearanceSearchResultSubtitle
+          @attr name com.ak.callmanager:textAppearanceSearchResultSubtitle
         */
         public static int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
@@ -6092,7 +6092,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textAppearanceSearchResultTitle
+          @attr name com.ak.callmanager:textAppearanceSearchResultTitle
         */
         public static int Theme_textAppearanceSearchResultTitle = 64;
         /**
@@ -6102,7 +6102,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textAppearanceSmallPopupMenu
+          @attr name com.ak.callmanager:textAppearanceSmallPopupMenu
         */
         public static int Theme_textAppearanceSmallPopupMenu = 41;
         /**
@@ -6114,7 +6114,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textColorAlertDialogListItem
+          @attr name com.ak.callmanager:textColorAlertDialogListItem
         */
         public static int Theme_textColorAlertDialogListItem = 94;
         /**
@@ -6126,7 +6126,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.zxcpoiu.incallmanager:textColorSearchUrl
+          @attr name com.ak.callmanager:textColorSearchUrl
         */
         public static int Theme_textColorSearchUrl = 66;
         /**
@@ -6136,7 +6136,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:toolbarNavigationButtonStyle
+          @attr name com.ak.callmanager:toolbarNavigationButtonStyle
         */
         public static int Theme_toolbarNavigationButtonStyle = 59;
         /**
@@ -6146,7 +6146,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:toolbarStyle
+          @attr name com.ak.callmanager:toolbarStyle
         */
         public static int Theme_toolbarStyle = 58;
         /**
@@ -6160,7 +6160,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowActionBar
+          @attr name com.ak.callmanager:windowActionBar
         */
         public static int Theme_windowActionBar = 2;
         /**
@@ -6174,7 +6174,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowActionBarOverlay
+          @attr name com.ak.callmanager:windowActionBarOverlay
         */
         public static int Theme_windowActionBarOverlay = 4;
         /**
@@ -6188,7 +6188,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowActionModeOverlay
+          @attr name com.ak.callmanager:windowActionModeOverlay
         */
         public static int Theme_windowActionModeOverlay = 5;
         /**
@@ -6207,7 +6207,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowFixedHeightMajor
+          @attr name com.ak.callmanager:windowFixedHeightMajor
         */
         public static int Theme_windowFixedHeightMajor = 9;
         /**
@@ -6226,7 +6226,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowFixedHeightMinor
+          @attr name com.ak.callmanager:windowFixedHeightMinor
         */
         public static int Theme_windowFixedHeightMinor = 7;
         /**
@@ -6245,7 +6245,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowFixedWidthMajor
+          @attr name com.ak.callmanager:windowFixedWidthMajor
         */
         public static int Theme_windowFixedWidthMajor = 6;
         /**
@@ -6264,7 +6264,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowFixedWidthMinor
+          @attr name com.ak.callmanager:windowFixedWidthMinor
         */
         public static int Theme_windowFixedWidthMinor = 8;
         /**
@@ -6283,7 +6283,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowMinWidthMajor
+          @attr name com.ak.callmanager:windowMinWidthMajor
         */
         public static int Theme_windowMinWidthMajor = 10;
         /**
@@ -6302,7 +6302,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowMinWidthMinor
+          @attr name com.ak.callmanager:windowMinWidthMinor
         */
         public static int Theme_windowMinWidthMinor = 11;
         /**
@@ -6316,7 +6316,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:windowNoTitle
+          @attr name com.ak.callmanager:windowNoTitle
         */
         public static int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6327,29 +6327,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.zxcpoiu.incallmanager:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.zxcpoiu.incallmanager:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.zxcpoiu.incallmanager:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.zxcpoiu.incallmanager:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.zxcpoiu.incallmanager:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.zxcpoiu.incallmanager:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.zxcpoiu.incallmanager:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.zxcpoiu.incallmanager:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.zxcpoiu.incallmanager:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.zxcpoiu.incallmanager:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.zxcpoiu.incallmanager:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.zxcpoiu.incallmanager:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.zxcpoiu.incallmanager:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.zxcpoiu.incallmanager:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.zxcpoiu.incallmanager:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.zxcpoiu.incallmanager:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.zxcpoiu.incallmanager:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.zxcpoiu.incallmanager:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.zxcpoiu.incallmanager:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.zxcpoiu.incallmanager:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.zxcpoiu.incallmanager:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.zxcpoiu.incallmanager:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.zxcpoiu.incallmanager:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.ak.callmanager:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.ak.callmanager:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.ak.callmanager:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.ak.callmanager:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.ak.callmanager:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.ak.callmanager:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.ak.callmanager:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.ak.callmanager:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.ak.callmanager:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.ak.callmanager:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.ak.callmanager:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.ak.callmanager:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.ak.callmanager:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.ak.callmanager:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.ak.callmanager:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.ak.callmanager:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.ak.callmanager:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.ak.callmanager:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.ak.callmanager:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.ak.callmanager:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.ak.callmanager:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.ak.callmanager:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.ak.callmanager:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6409,7 +6409,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:collapseContentDescription
+          @attr name com.ak.callmanager:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 19;
         /**
@@ -6419,7 +6419,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:collapseIcon
+          @attr name com.ak.callmanager:collapseIcon
         */
         public static int Toolbar_collapseIcon = 18;
         /**
@@ -6435,7 +6435,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetEnd
+          @attr name com.ak.callmanager:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 6;
         /**
@@ -6451,7 +6451,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetLeft
+          @attr name com.ak.callmanager:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 7;
         /**
@@ -6467,7 +6467,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetRight
+          @attr name com.ak.callmanager:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 8;
         /**
@@ -6483,7 +6483,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:contentInsetStart
+          @attr name com.ak.callmanager:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 5;
         /**
@@ -6493,7 +6493,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:logo
+          @attr name com.ak.callmanager:logo
         */
         public static int Toolbar_logo = 4;
         /**
@@ -6507,7 +6507,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:logoDescription
+          @attr name com.ak.callmanager:logoDescription
         */
         public static int Toolbar_logoDescription = 22;
         /**
@@ -6523,7 +6523,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:maxButtonHeight
+          @attr name com.ak.callmanager:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 17;
         /**
@@ -6537,7 +6537,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:navigationContentDescription
+          @attr name com.ak.callmanager:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 21;
         /**
@@ -6547,7 +6547,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:navigationIcon
+          @attr name com.ak.callmanager:navigationIcon
         */
         public static int Toolbar_navigationIcon = 20;
         /**
@@ -6557,7 +6557,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:popupTheme
+          @attr name com.ak.callmanager:popupTheme
         */
         public static int Toolbar_popupTheme = 9;
         /**
@@ -6571,7 +6571,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:subtitle
+          @attr name com.ak.callmanager:subtitle
         */
         public static int Toolbar_subtitle = 3;
         /**
@@ -6581,7 +6581,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:subtitleTextAppearance
+          @attr name com.ak.callmanager:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 11;
         /**
@@ -6596,7 +6596,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:subtitleTextColor
+          @attr name com.ak.callmanager:subtitleTextColor
         */
         public static int Toolbar_subtitleTextColor = 24;
         /**
@@ -6610,7 +6610,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:title
+          @attr name com.ak.callmanager:title
         */
         public static int Toolbar_title = 2;
         /**
@@ -6626,7 +6626,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:titleMarginBottom
+          @attr name com.ak.callmanager:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 16;
         /**
@@ -6642,7 +6642,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:titleMarginEnd
+          @attr name com.ak.callmanager:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 14;
         /**
@@ -6658,7 +6658,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:titleMarginStart
+          @attr name com.ak.callmanager:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 13;
         /**
@@ -6674,7 +6674,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:titleMarginTop
+          @attr name com.ak.callmanager:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 15;
         /**
@@ -6690,7 +6690,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:titleMargins
+          @attr name com.ak.callmanager:titleMargins
         */
         public static int Toolbar_titleMargins = 12;
         /**
@@ -6700,7 +6700,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:titleTextAppearance
+          @attr name com.ak.callmanager:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 10;
         /**
@@ -6715,7 +6715,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:titleTextColor
+          @attr name com.ak.callmanager:titleTextColor
         */
         public static int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6726,9 +6726,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.zxcpoiu.incallmanager:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.zxcpoiu.incallmanager:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.zxcpoiu.incallmanager:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.ak.callmanager:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.ak.callmanager:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.ak.callmanager:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6765,7 +6765,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:paddingEnd
+          @attr name com.ak.callmanager:paddingEnd
         */
         public static int View_paddingEnd = 3;
         /**
@@ -6781,7 +6781,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:paddingStart
+          @attr name com.ak.callmanager:paddingStart
         */
         public static int View_paddingStart = 2;
         /**
@@ -6791,7 +6791,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.zxcpoiu.incallmanager:theme
+          @attr name com.ak.callmanager:theme
         */
         public static int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6801,8 +6801,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.zxcpoiu.incallmanager:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.zxcpoiu.incallmanager:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.ak.callmanager:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.ak.callmanager:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6829,7 +6829,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.zxcpoiu.incallmanager:backgroundTint
+          @attr name com.ak.callmanager:backgroundTint
         */
         public static int ViewBackgroundHelper_backgroundTint = 1;
         /**
@@ -6849,7 +6849,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.zxcpoiu.incallmanager:backgroundTintMode
+          @attr name com.ak.callmanager:backgroundTintMode
         */
         public static int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-incall-manager",
-  "version": "3.3.0",
+  "name": "callmanager",
+  "version": "1.0.0",
   "description": "Handling media-routes/sensors/events during a audio/video chat on React Native",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zxcpoiu/react-native-incall-manager.git"
+    "url": "git+https://github.com/akashefrath/react-native-in-call-manager.git"
   },
   "keywords": [
     "React",
@@ -21,12 +21,12 @@
     "SIP",
     "Voip"
   ],
-  "author": "Henry Lin <zxcpoiu@gmail.com>",
+  "author": "Akashefrath <akashefrath@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zxcpoiu/react-native-incall-manager/issues"
+    "url": "https://github.com/akashefrath/react-native-in-call-manager/issues"
   },
-  "homepage": "https://github.com/zxcpoiu/react-native-incall-manager#readme",
+  "homepage": "https://github.com/akashefrath/react-native-in-call-manager#readme",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   }
