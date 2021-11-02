@@ -1,0 +1,37 @@
+com/zxcpoiu/incallmanager/InCallManagerPackage.java
+ com.zxcpoiu.incallmanager.InCallManagerPackage
+com/zxcpoiu/incallmanager/BuildConfig.java
+ com.zxcpoiu.incallmanager.BuildConfig
+com/zxcpoiu/incallmanager/AppRTC/AppRTCProximitySensor.java
+ com.zxcpoiu.incallmanager.AppRTC.AppRTCProximitySensor
+com/zxcpoiu/incallmanager/InCallManagerModule.java
+ com.zxcpoiu.incallmanager.InCallManagerModule
+ com.zxcpoiu.incallmanager.InCallManagerModule$1
+ com.zxcpoiu.incallmanager.InCallManagerModule$10
+ com.zxcpoiu.incallmanager.InCallManagerModule$11
+ com.zxcpoiu.incallmanager.InCallManagerModule$12
+ com.zxcpoiu.incallmanager.InCallManagerModule$2
+ com.zxcpoiu.incallmanager.InCallManagerModule$3
+ com.zxcpoiu.incallmanager.InCallManagerModule$4
+ com.zxcpoiu.incallmanager.InCallManagerModule$5
+ com.zxcpoiu.incallmanager.InCallManagerModule$6
+ com.zxcpoiu.incallmanager.InCallManagerModule$7
+ com.zxcpoiu.incallmanager.InCallManagerModule$8
+ com.zxcpoiu.incallmanager.InCallManagerModule$9
+ com.zxcpoiu.incallmanager.InCallManagerModule$AudioDevice
+ com.zxcpoiu.incallmanager.InCallManagerModule$AudioManagerState
+ com.zxcpoiu.incallmanager.InCallManagerModule$MyPlayerInterface
+ com.zxcpoiu.incallmanager.InCallManagerModule$OnFocusChangeListener
+ com.zxcpoiu.incallmanager.InCallManagerModule$myMediaPlayer
+ com.zxcpoiu.incallmanager.InCallManagerModule$myToneGenerator
+com/zxcpoiu/incallmanager/InCallProximityManager.java
+ com.zxcpoiu.incallmanager.InCallProximityManager
+ com.zxcpoiu.incallmanager.InCallProximityManager$1
+com/zxcpoiu/incallmanager/InCallWakeLockUtils.java
+ com.zxcpoiu.incallmanager.InCallWakeLockUtils
+com/zxcpoiu/incallmanager/AppRTC/AppRTCBluetoothManager.java
+ com.zxcpoiu.incallmanager.AppRTC.AppRTCBluetoothManager
+ com.zxcpoiu.incallmanager.AppRTC.AppRTCBluetoothManager$1
+ com.zxcpoiu.incallmanager.AppRTC.AppRTCBluetoothManager$BluetoothHeadsetBroadcastReceiver
+ com.zxcpoiu.incallmanager.AppRTC.AppRTCBluetoothManager$BluetoothServiceListener
+ com.zxcpoiu.incallmanager.AppRTC.AppRTCBluetoothManager$State
